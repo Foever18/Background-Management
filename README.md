@@ -1,4 +1,4 @@
-# hm-admin
+# admin
 
 ## Project setup
 ```
